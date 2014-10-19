@@ -1,5 +1,5 @@
-moon-synth
-==========
+moon-soft-synth
+===============
 
 Adaptation of the Audino Synthesizer code for the LilyPad Arduino 328 Main Board.
 
